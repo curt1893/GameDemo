@@ -1,5 +1,9 @@
 # GameDemo
 
+## Installation
+
+Please either download the raw .zip file and extract, or clone this repository to run the .exe directly.
+
 ## V0.1 Initial Demo
 
 1. WASD to move your ship around.
